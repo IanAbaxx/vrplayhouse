@@ -3,25 +3,33 @@
 **Effective Date:** February 27, 2026
 **Last Updated:** February 27, 2026
 
-## Overview
+## Program Name
 
-These Terms of Service govern access to and use of services operated by Ian Forester ("we", "us", or "our").
+Atlas Personal AI Assistant
+
+## Program Description
+
+Atlas is a single-user personal AI assistant that sends automated SMS notifications and alerts to the registered account owner. Messages include system alerts, security notifications, reminders, and responses to user-initiated queries. No marketing content is ever sent.
+
+## Message Frequency
+
+Message frequency varies based on system activity and user-initiated queries. You may receive up to several messages per day during active use.
+
+## Message and Data Rates
+
+Message and data rates may apply. Contact your wireless carrier for details on your plan.
+
+## Opt-Out Instructions
+
+To stop receiving SMS messages at any time, reply **STOP** to any message. You will receive a confirmation and no further messages will be sent.
+
+## Help and Support
+
+To request help, reply **HELP** to any message, or contact us at: atlas@ianforester.com
 
 ## Authorized Use
 
 This system is a single-user personal AI assistant. Access is restricted to the authorized account owner only. Unauthorized access is strictly prohibited.
-
-## SMS Communications
-
-By enabling SMS notifications, you consent to receive automated text messages from this system at the phone number you have registered. These messages include:
-
-- System alerts and security notifications
-- Reminders and scheduled updates
-- Responses to queries initiated by the authorized user
-
-Message frequency varies based on system activity. Standard message and data rates may apply.
-
-To opt out of SMS messages, reply STOP to any message. To request help, reply HELP.
 
 ## No Warranties
 
@@ -37,4 +45,5 @@ These terms may be updated at any time. Continued use of the service constitutes
 
 ## Contact
 
-For questions about these terms, contact: atlas@ianforester.com
+Ian Forester
+atlas@ianforester.com
